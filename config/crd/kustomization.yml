@@ -1,0 +1,2 @@
+resources:
+  - https://github.com/ansible/awx-operator/config/crd?ref=2.7.1
